@@ -33,7 +33,7 @@
 
 
 /* AQUI É VERSÃO COMPUTADOR */
-@media screen and (min-width:992px) {
+@media screen and (min-width:992px){
     body{
         background-image: linear-gradient(to top, #49a09d, #5f2c82);
     }
@@ -42,6 +42,7 @@
     #formulario > p{
         font-size: 1em;
         margin: 10px 0px;
+        
     }
 
     #formulario > h1{
@@ -66,5 +67,4 @@
         width: 90%;
     }
 }
-
 

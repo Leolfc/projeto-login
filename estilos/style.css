@@ -13,6 +13,16 @@ Lilás: #5f2c82
     box-sizing: border-box;
 }
 
+
+#login{
+    display: flex;
+    flex-flow: row wrap;
+    }
+    #formulário, #imagem{
+    flex: 1 1 auto;
+    }
+    
+
 body, html{
     background-color: #5f2c82 ;
     height: 100vh;
